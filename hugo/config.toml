@@ -60,6 +60,9 @@ unsafe = true
      [[params.klimawatch.kommunen]]
         name = "Bonn"
         slug = "bonn"
+     [[params.klimawatch.kommunen]]
+        name = "Nürnberg"
+        slug = "nuernberg"
 #NEUEKOMMUNE
 
 [blackfriday]
